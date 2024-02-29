@@ -1,6 +1,6 @@
 # POC: Book GPT Recommender with LangChain
 
-- A simple book recommender app built with LangChain, Streamlit, and OpenAI API.
+- A simple AutoGPT app built with LangChain, Streamlit, and OpenAI API.
 
 <p align="center">
     <img src="images/demo1.png" width=70%>
