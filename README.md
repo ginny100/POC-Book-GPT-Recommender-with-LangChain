@@ -25,3 +25,5 @@
 <p align="center">
     <img src="images/demo3-3.png" width=70%>
 </p>
+
+- Inspired by __Nicholas Renotte__'s [LangChain Crash Course: Build a AutoGPT app in 25 minutes!](https://www.youtube.com/watch?v=MlK6SIjcjE8) tutorial.
